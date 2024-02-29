@@ -1,2 +1,3 @@
 # CSCI3251_Alaa_Abukmeil
-This is the project of Alaa Abukmeil
+Hello, I am Alaa Abukmeil
+My student number is 1155164733
